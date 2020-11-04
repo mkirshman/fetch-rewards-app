@@ -1,0 +1,13 @@
+{ 
+    "fetchRewards": {
+        "urls": {
+            "dev": "https://fetch-hiring.s3.amazonaws.com",
+            "test": "https://fetch-hiring.s3.amazonaws.com",
+            "prod": "https://fetch-hiring.s3.amazonaws.com"
+        },
+        "paths": {
+            "hiring": "/hiring.json"
+        }
+    },
+    "proxy": "https://cors-anywhere.herokuapp.com/"
+}

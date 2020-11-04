@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FetchRewards renders the title of the idea in <h3> tags 1`] = `ShallowWrapper {}`;
